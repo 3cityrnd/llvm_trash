@@ -26,3 +26,10 @@ export TRITON_BUILD_WITH_CCACHE=true
 numactl --physcpubind=0,1,2,3,4  pip install -e .
 
 ```
+
+
+# triton-ascend
+
+```
+https://gitee.com/ascend/triton-ascend/blob/master/docs/sources/getting-started/installation.md
+```
